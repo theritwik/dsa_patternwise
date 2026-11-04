@@ -1,4 +1,6 @@
-LEETCODE - 1 TWO SUM
+LEETCODE - 
+
+1.  TWO SUM
 
 class Solution {
 public:
@@ -16,3 +18,6 @@ public:
         return {};
     }
 };
+
+26. Remove Duplicates from Sorted Array
+
